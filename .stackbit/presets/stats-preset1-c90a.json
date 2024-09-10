@@ -1,0 +1,29 @@
+{
+    "model": "stats",
+    "srcType": "contentful",
+    "srcProjectId": "6b9hsng2ajya",
+    "presets": [
+        {
+            "label": "preset1",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "presets"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "heading": "Stats heading",
+                "body": null,
+                "theme": "primary",
+                "stats": [
+                    {
+                        "$$ref": "tnUnQwb0YfqbfdVAtCGSE",
+                        "$$type": "statItem"
+                    }
+                ]
+            },
+            "thumbnail": "images/stats-preset1-c90a.png"
+        }
+    ]
+}
